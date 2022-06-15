@@ -26,6 +26,10 @@ comply with WA 34.
       2. Link for "how to submit written comments"
    - During town meeting, should be linked to the play-by-play for the article
       (ie, expected schedule, speakers list, motion voting order)
+   - Should populate the backlog for previous year's Town Meetings including
+     how they were voted
+   - WAs can link to "related WAs", both in this TM (ie paired articles)
+     as well in previous years (ie, the chain of leafblower articles)
 1. BUDGET PROCESS master list
    - Each department, linked to online report
    - Upcoming hearings on this department
