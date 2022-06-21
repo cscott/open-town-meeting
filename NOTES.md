@@ -38,11 +38,17 @@ comply with WA 34.
    - Default view is just those hearing that have to do w/ a specific warrant
       article *or the budget*
    - Online/hybrid links where possible
+   - Add ability for TMMs/precincts to add entries to calendar for WA review,
+     constituent meetings, etc.
+     (Can inform petitioners about WA review meetings)
+   - Add meetings from quasi-governmental bodies like chamber of commerce, etc.
 1. List of committees -- this is needed contextually for WA/calendar, etc
    - Membership
    - How to contact
    - Upcoming meetings
    - How to apply
+   - Minutes and agendas
+     - Automated reminders to chairs when minutes are not updated promptly?
 1. Link to TMMA public archive
    - Maybe annotated somehow, searchable, etc.
    - Ie, if you put "WA20" in the subject line it will show up in a "TMMA
@@ -67,6 +73,16 @@ comply with WA 34.
      articles scheduled/dealt with for each night, and for those which
      have been voted, the results of the vote (linked to recorded votes
      where possible). (We'll need to resurrect the recorded vote coalition.)
+   - Also record each speaker in the debate in real time (this could even
+     be timestamped so that later we can link to the exact moment in the
+     youtube recording.)  Note that speakers are often but not always
+     TMMs; probably need to record them as "non TMM speaker" so that
+     name can be corrected offline, not linked to a site user.
+   - Each vote in the debate can be flagged and timestamped as well.
+   - Can we crowdsource the real-time portion (eg youtube users will be
+     delayed) so that if one person misses an important event it can be
+     pulled from someone elses event tags?  So event tags are per-user,
+     with the tags from the "site admin" shown to everyone by default?
 1. "Votes"
    - Probably need a separate table to record votes on WA articles
    - Remember to include both recorded and unrecorded votes, only the
@@ -90,3 +106,17 @@ comply with WA 34.
    - Once you have a database of votes and endorsements, TMMs can be
      scored by each.  Again, this is a user-controlled feature and no
      unofficial endorsements are available by default.
+1. Tools to allow petitioners to manage speakers lists?
+   - Accessible by everyone who is on that list
+   - Real time view of where you are on that list during debate
+     (maybe this can't be done right now, but we can record each speaker
+     in real time and display the list of expected speakers side by side
+     with the list of actual speakers)
+1. Precinct information
+   - Precinct announcements (made by any TMM in that precinct)
+     - block party, WAs of special information, hearings of special relevance,
+       warrant article reviews
+     - maybe should be able to include a link to a WA or calendar entry
+       (perhaps need a type/id "link" type)
+   - TMMs in the precinct
+   - Perhaps voting history by precinct, or precinct-level endorsements?
